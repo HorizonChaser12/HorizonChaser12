@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HorizonChaser12
-- 👀 I’m interested in Android ROM development,websites and Gaming Stuffs.
-- 🌱 I’m currently learning Web Development.Learnt basics of python and C.More to go.
-- 💞️ I’m looking to collaborate on working of some official custom ROM development.
-- 📫 How to reach me just tag me,if i can help i will.
+- 👀 I’m interested in Android Development and a little bit of Gaming.
+- 🌱 I’m currently learning Flutter Development.
+- 💞️ I’m looking to collaborate on Android/Flutter Development.
+- 📫Just tag me,if i can I will help.
 
 <!---
 HorizonChaser12/HorizonChaser12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
