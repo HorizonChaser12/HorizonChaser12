@@ -4,6 +4,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HorizonChaser12&width=900&height=400)](https://github.com/Akshay090/svg-banners)
 
 </div>
+<hr>
 <br>
 <h3>My "Learning to code, one byte at a time." </h3>
                                                                                                                
