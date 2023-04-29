@@ -4,8 +4,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HorizonChaser12&width=900&height=200)](https://github.com/Akshay090/svg-banners)
 
 </div>
-<hr>
-<h3>My "Learning to code, one byte at a time." </h3>
+
+<hr>  
+<h3 align=center>Learning to code, one byte at a time.</h3>
 <hr>  
                                                                                                            
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
