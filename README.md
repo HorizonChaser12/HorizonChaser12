@@ -4,6 +4,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HorizonChaser12&width=900&height=400)](https://github.com/Akshay090/svg-banners)
 
 </div>
+<br>
+<h3>My "Learning to code, one byte at a time." </h3>
                                                                                                                
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
