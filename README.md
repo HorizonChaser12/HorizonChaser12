@@ -9,4 +9,4 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&layout=compact)](https://github.com/HorizonChaser12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&theme=synthwave&layout=compact)](https://github.com/HorizonChaser12)
