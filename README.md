@@ -5,7 +5,6 @@
 
 </div>
 <hr>
-<br>
 <h3>My "Learning to code, one byte at a time." </h3>
                                                                                                                
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
