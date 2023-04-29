@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src ="![hoho](https://user-images.githubusercontent.com/78254378/235309937-b02d16c1-617e-471d-b594-11f22a5d3bbd.svg)" style="" width:1920/>
+<img src ="https://user-images.githubusercontent.com/78254378/235309937-b02d16c1-617e-471d-b594-11f22a5d3bbd.svg" style="" width:1920/>
 
 </div>
                                                                                                                
