@@ -8,6 +8,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <div align=center>
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&theme=synthwave&layout=compact)](https://github.com/HorizonChaser12)
