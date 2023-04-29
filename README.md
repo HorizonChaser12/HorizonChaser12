@@ -1,7 +1,8 @@
-<p align=”center”>
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-</p>
-<div>
+<div align="center">
+
+<img src ="https://user-images.githubusercontent.com/55779046/225549442-9ef10643-852c-4259-9a0d-13b85331f08c.svg" style="" width:1920/>
+
+</div>
                                                                                                                
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
