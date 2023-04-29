@@ -5,3 +5,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12)](https://github.com/HorizonChaser12)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&layout=compact)](https://github.com/HorizonChaser12)
