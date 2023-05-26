@@ -23,3 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&theme=synthwave&layout=compact)](https://github.com/HorizonChaser12)
 
 </div>
+
+
+<div>
+  <img src= "https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
+</div>
