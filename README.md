@@ -26,5 +26,5 @@
 
 
 <div>
-  <img src= "https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
+  <img src= [https://komarev.com/ghpvc/?HorizonChaser12] />
 </div>
