@@ -6,7 +6,12 @@
 </div>
 
 <hr>  
-<h3 align=center>Learning to code, one byte at a time.</h3>
+<h3 align=center>Hello!👋</h3>
+This is Suryakant over here.
+A guy who is brain over heels for Android Development but procrastinates a lot.
+Currently working on Flutter Development and improving my analytical skills.
+In this account you will find my works throught my college journey as well my DSA practice.
+Hoping to learn everyday.
 <hr>  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
