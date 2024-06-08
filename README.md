@@ -6,17 +6,14 @@
 </div>
 
 <hr>  
-<h3 align=center>Hello!👋</h3>
+<h3 align=center>Namaste!🙏</h3>
 
-This is Suryakant over here.
+Hi, I'm Suryakant 👋
+I'm a passionate Android developer with a knack for Flutter development and a drive to enhance my analytical skills. While I sometimes struggle with procrastination, my enthusiasm for learning and growth keeps me moving forward.
 
-A guy who is brain over heels for Android Development but procrastinates a lot.
+In this repository, you'll find a collection of my projects and experiments from my college journey, alongside my dedicated practice in Data Structures and Algorithms (DSA).
 
-Currently working on Flutter Development and improving my analytical skills.
-
-In this account you will find my works throught my college journey as well my DSA practice.
-
-Hoping to learn everyday.
+I'm committed to learning something new every day and excited to share my progress with you. Let's grow together!
 <hr>  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
