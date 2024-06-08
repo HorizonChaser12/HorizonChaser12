@@ -8,7 +8,7 @@
 <hr>  
 <h3 align=center>Namaste!🙏</h3>
 
-Hi, I'm Suryakant 👋
+I'm Suryakant 👋
 I'm a passionate Android developer with a knack for Flutter development and a drive to enhance my analytical skills. While I sometimes struggle with procrastination, my enthusiasm for learning and growth keeps me moving forward.
 
 In this repository, you'll find a collection of my projects and experiments from my college journey, alongside my dedicated practice in Data Structures and Algorithms (DSA).
