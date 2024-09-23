@@ -11,7 +11,7 @@
 I'm Suryakant 👋
 I'm a passionate Android developer with a knack for Flutter development and a drive to enhance my analytical skills. While I sometimes struggle with procrastination, my enthusiasm for learning and growth keeps me moving forward.
 
-In this repository, you'll find a collection of my projects and experiments from my college journey, alongside my dedicated practice in Data Structures and Algorithms (DSA).
+In this repository, you'll find a collection of my projects and research from my college journey, alongside my practice in Data Structures and Algorithms (DSA).
 
 I'm committed to learning something new every day and excited to share my progress with you. Let's grow together!
 <hr>  
