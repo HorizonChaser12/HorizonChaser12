@@ -9,7 +9,7 @@
 <h3 align=center>Namaste!🙏</h3>
 
 I'm Suryakant 👋
-I'm a passionate Android developer with a knack for Flutter development and a drive to enhance my analytical skills. While I sometimes struggle with procrastination, my enthusiasm for learning and growth keeps me moving forward.
+I'm a Tech Lover with a knack for Flutter,Android development and a drive to enhance my analytical skills.
 
 In this repository, you'll find a collection of my projects and research from my college journey, alongside my practice in Data Structures and Algorithms (DSA).
 
