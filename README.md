@@ -15,6 +15,11 @@ I'm a Tech Lover with a knack for Flutter,Android development and a drive to enh
 In this repository, you'll find a collection of my projects and research from my college journey, alongside my practice in Data Structures and Algorithms (DSA).
 
 I'm committed to learning something new every day and excited to share my progress with you. Let's grow together!
+
+Right now, I am trying to learn frontend i.e mostly JavaScript(For now), React and ElectronJS(On the path) with that I am also trying my hands on LangChain and GenAI stuff.
+
+Feel free to connect.
+
 <hr>  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
