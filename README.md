@@ -12,7 +12,7 @@ I'm Suryakant 👋
 
 I'm a Technology Enthusiast who has tried his hands on multiple things and couldn't master none(I am serious here).
 
-Current Status: I am trying to learn trying my hands on LangChain and GenAI stuff. In the other half of my brain I am trying to work on the role of "Data Engineer".
+**Current Status** : I am trying to learn trying my hands on LangChain and GenAI stuff. In the other half of my brain I am trying to work on the role of "Data Engineer".
 You might find tutorials, some self-made notes, a dump load of DSA, some here and there projects from my college days and finally some GenAI related stuffs.
 
 Feel free to connect.
