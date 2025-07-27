@@ -56,4 +56,4 @@ Sometimes I procrastinate a lot, and occasionally my creative brain just stops w
 <hr>
 
 
-![No. of people (other than me watching myself) interested in me:](https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS)
+![No. of people (other than me watching myself) interested in me](https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS)
