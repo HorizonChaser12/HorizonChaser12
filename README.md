@@ -43,7 +43,7 @@ Feel free to connect!
 
 ## About me (the fun side):
 
-Sometimes I procrastinate a lot, and occasionally my creative brain just stops working (I’m serious! 🤪).
+Sometimes I procrastinate a lot, and occasionally my creative brain just stops working (I’m serious! 🤪). And below is the proof of that.
 
 <div align="center">
 
@@ -55,6 +55,7 @@ Sometimes I procrastinate a lot, and occasionally my creative brain just stops w
 
 <hr>
 
+No. of people (other than me watching myself) intrested in me:
 <div>
   <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
 </div>
