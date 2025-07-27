@@ -19,6 +19,8 @@ Feel free to connect.
 
 <hr>  
 
+## Current tools and programming langauges I have learnt or learning:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +37,7 @@ Feel free to connect.
 
 </div>
 
-This over here shows that sometimes I procrastinate a lot, and sometimes my left brain stops working(I am serious here too!🤪)
+## This over here shows that sometimes I procrastinate a lot, and sometimes my left brain stops working(I am serious here too!🤪)
 <div align=center>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
