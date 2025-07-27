@@ -37,6 +37,9 @@ Feel free to connect.
 
 </div>
 
+<hr>
+
+
 ## This over here shows that sometimes I procrastinate a lot, and sometimes my left brain stops working(I am serious here too!🤪)
 <div align=center>
 
@@ -46,6 +49,7 @@ Feel free to connect.
 
 </div>
 
+<hr>
 
 <div>
   <img src= "https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
