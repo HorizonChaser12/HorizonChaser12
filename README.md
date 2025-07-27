@@ -57,5 +57,6 @@ Sometimes I procrastinate a lot, and occasionally my creative brain just stops w
 
 No. of people (other than me watching myself) intrested in me:
 <div>
+  <p>No. of people (other than me watching myself) intrested in me:<p>
   <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
 </div>
