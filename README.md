@@ -10,13 +10,10 @@
 
 I'm Suryakant 👋
 
-I'm a Tech Lover with a knack for Flutter,Android development and a drive to enhance my analytical skills.
+I'm a Technology Enthusiast who has tried his hands on multiple things and couldn't master none(I am serious here).
 
-In this repository, you'll find a collection of my projects and research from my college journey, alongside my practice in Data Structures and Algorithms (DSA).
-
-I'm committed to learning something new every day and excited to share my progress with you. Let's grow together!
-
-Right now, I am trying to learn frontend i.e mostly JavaScript(For now), React and ElectronJS(On the path) with that I am also trying my hands on LangChain and GenAI stuff.
+Current Status: I am trying to learn trying my hands on LangChain and GenAI stuff. In the other half of my brain I am trying to work on the role of "Data Engineer".
+You might find tutorials, some self-made notes, a dump load of DSA, some here and there projects from my college days and finally some GenAI related stuffs.
 
 Feel free to connect.
 
@@ -38,6 +35,7 @@ Feel free to connect.
 
 </div>
 
+This over here shows that sometimes I procrastinate a lot, and sometimes my left brain stops working(I am serious here too!🤪)
 <div align=center>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
