@@ -12,14 +12,18 @@ I'm Suryakant 👋
 
 I'm a Technology Enthusiast who has tried his hands on multiple things and couldn't master none(I am serious here).
 
-**Current Status** : I am trying to learn trying my hands on LangChain and GenAI stuff. In the other half of my brain I am trying to work on the role of "Data Engineer".
-You might find tutorials, some self-made notes, a dump load of DSA, some here and there projects from my college days and finally some GenAI related stuffs.
+**Current Status:**  
+- Diving into LangChain and GenAI  
+- Training for a role as a Data Engineer  
+- Sharing DSA notes, personal projects, and GenAI experiments from college and beyond
 
-Feel free to connect.
+You'll also find tutorials, self-made notes, various college projects, and GenAI-related content here.
 
-<hr>  
+Feel free to connect!
 
-## Current tools and programming langauges I have learnt or learning:
+<hr>
+
+## Current tools and programming languages I’m learning or have learned:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -35,13 +39,13 @@ Feel free to connect.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-</div>
-
 <hr>
 
+## About me (the fun side):
 
-## This over here shows that sometimes I procrastinate a lot, and sometimes my left brain stops working(I am serious here too!🤪)
-<div align=center>
+Sometimes I procrastinate a lot, and occasionally my creative brain just stops working (I’m serious! 🤪).
+
+<div align="center">
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
 
@@ -52,5 +56,5 @@ Feel free to connect.
 <hr>
 
 <div>
-  <img src= "https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
+  <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" />
 </div>
