@@ -10,14 +10,14 @@
 
 I'm Suryakant 👋
 
-I'm a Technology Enthusiast who has tried his hands on multiple things and couldn't master none(I am serious here).
+I'm a Technology Enthusiast who has tried his hands on multiple things throught my journey but couldn't master none( Am I cooked? ☠️).
 
 **Current Status:**  
 - Diving into LangChain and GenAI  
 - Training for a role as a Data Engineer  
 - Sharing DSA notes, personal projects, and GenAI experiments from college and beyond
 
-You'll also find tutorials, self-made notes, various college projects, and GenAI-related content here.
+You'll also find tutorials, self-made notes, various college projects, some Flutter Projects and GenAI-related content here.
 
 Feel free to connect!
 
@@ -41,9 +41,9 @@ Feel free to connect!
 
 <hr>
 
-## About me (the fun side):
+## About me:
 
-Sometimes I procrastinate a lot, and occasionally my creative brain just stops working (I’m serious! 🤪). And below is the proof of that.
+Sometimes I procrastinate a lot, and occasionally my left brain just starts working (I’m serious! 🤪). And below is the proof of that.
 
 <div align="center">
 
