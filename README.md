@@ -15,7 +15,7 @@ I'm a Technology Enthusiast who has tried his hands on multiple things throught 
 **Current Status:**  
 - Diving into LangChain and GenAI  
 - Training for a role as a Data Engineer  
-- Sharing DSA notes, personal projects, and GenAI experiments from college and beyond
+- Learning DSA and working upon my understanding more
 
 You'll also find tutorials, self-made notes, various college projects, some Flutter Projects and GenAI-related content here.
 
