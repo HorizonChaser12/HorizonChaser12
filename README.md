@@ -57,6 +57,6 @@ Sometimes I procrastinate a lot, and occasionally my left brain just starts work
 
 
 <div>
-  <span>No. of people (other than me watching myself) interested in me:</span>
+  <span>No. of people (other than myself) watching:</span>
   <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" style="vertical-align: middle;" />
 </div>
