@@ -64,5 +64,5 @@ Sometimes I procrastinate a lot, and occasionally my left brain just starts work
 
 <div>
   <span>Currently Jamming to: </span>
-  [![Currently Jamming](https://img.shields.io/badge/🎵%20Currently%20Jamming%20To%3A-Spotify-green)](https://open.spotify.com/track/5AhDXDjKgyo3qxkec7BisF)
-</div>  
+  [![Spotify](https://img.shields.io/badge/🎵%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5AhDXDjKgyo3qxkec7BisF)
+</div>
