@@ -64,5 +64,5 @@ Sometimes I procrastinate a lot, and occasionally my left brain just starts work
 
 <div>
   <span>Currently Jamming to: </span>
-  [![Spotify](https://img.shields.io/badge/🎵%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5AhDXDjKgyo3qxkec7BisF)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrrxujhnr57tt5yxrdkgwdq4c4&cover_image=true&theme=default&show_offline=false&background_color=5a5b57&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrrxujhnr57tt5yxrdkgwdq4c4&redirect=true)
 </div>
