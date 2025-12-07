@@ -60,3 +60,9 @@ Sometimes I procrastinate a lot, and occasionally my left brain just starts work
   <span>No. of people (other than myself) watching:</span>
   <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" style="vertical-align: middle;" />
 </div>
+
+
+<div>
+  <span>Currently Jamming to: </span>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5AhDXDjKgyo3qxkec7BisF?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>  
