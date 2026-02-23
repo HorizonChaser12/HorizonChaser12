@@ -41,23 +41,9 @@ Feel free to connect!
 
 <hr>
 
-## About me:
-
-Sometimes I procrastinate a lot, and occasionally my left brain just starts working (I’m serious! 🤪). And below is the proof of that.
-
-<div align="center">
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=HorizonChaser12&theme=synthwave&show_icons=true)](https://github.com/HorizonChaser12)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser12&theme=synthwave&layout=compact)](https://github.com/HorizonChaser12)
-
-</div>
-
-<hr>
-
 
 <div>
-  <span>No. of people (other than myself) watching:</span>
+  <span>No. of people (other than myself) checking my profile: </span>
   <img src="https://komarev.com/ghpvc/?username=HorizonChaser12&color=red&label=WATCHERS" style="vertical-align: middle;" />
 </div>
 
