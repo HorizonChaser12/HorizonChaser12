@@ -6,7 +6,7 @@
 </div>
 
 <hr>  
-<h3 align=center>Namaste!🙏</h3>
+<h3>Namaste!🙏</h3>
 
 I'm Suryakant 👋
 
