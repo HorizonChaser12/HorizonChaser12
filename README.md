@@ -6,9 +6,8 @@
 </div>
 
 <hr>  
-<h3>Namaste!🙏</h3>
 
-I'm Suryakant 👋
+Hey! Suryakant over here, nothing much to tell just have a look and feel free to connect! KUDOS!
 
 I'm a Technology Enthusiast who has tried his hands on multiple things throught my journey but couldn't master none( Am I cooked? ☠️).
 
@@ -18,8 +17,6 @@ I'm a Technology Enthusiast who has tried his hands on multiple things throught 
 - Learning DSA and working upon my understanding more
 
 You'll also find tutorials, self-made notes, various college projects, some Flutter Projects and GenAI-related content here.
-
-Feel free to connect!
 
 <hr>
 
